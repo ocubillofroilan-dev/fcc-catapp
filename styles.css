@@ -55,7 +55,6 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Row layout: text beside image */
 .row {
   display: flex;
   align-items: center;
